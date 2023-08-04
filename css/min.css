@@ -148,15 +148,7 @@ li a:hover{
 }
 
 .menu-bg span:hover:after {
-    content: attr(title);
-    position: absolute;
-    background: #666666;
-    color: white;
-    font-size: 13px;
-    padding: 5px;
-    border-radius: 5px;
-    white-space: nowrap;
-    bottom: -35px;
+    display: block;
 }
 
 .menu-bg span:hover:after{
