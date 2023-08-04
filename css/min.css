@@ -177,13 +177,33 @@ input:focus{
 }
 
 .mic{
-    width: 15px;
+    width: 18px;
     position: absolute;
     top: 16px;
     left: 565px;
 }
 
+button{
+    border: 1px solid transparent;
+    padding: 8px 12px;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+}
 
+button:hover{
+    border: 1px solid #eee;
+    box-shadow: 0 0 2px 1px rgba(189, 189, 189, 0.4);
+    cursor: pointer;
+}
+
+.buttons{
+    width: 360px;
+    margin: auto;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
 
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
