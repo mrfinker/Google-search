@@ -134,6 +134,22 @@ li a:hover{
     cursor: pointer;
 }
 
+.menu-bg[title]{
+    position: relative;
+}
+
+.menu-bg[title]:hover:after {
+    content: attr(title);
+    position: absolute;
+    background: #000;
+    color: #fff;
+    padding: 5px;
+    border-radius: 5px;
+    white-space: nowrap;
+    opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+  }
+
 .menu-button{
     width: 20px;
 }
