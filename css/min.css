@@ -134,11 +134,11 @@ li a:hover{
     cursor: pointer;
 }
 
-.menu-bg[title]{
+.menu-bg span{
     position: relative;
 }
 
-.menu-bg[title]:hover:after {
+.menu-bg span:hover:after {
     content: attr(title);
     position: absolute;
     background: #666666;
@@ -150,12 +150,12 @@ li a:hover{
     bottom: -35px;
 }
 
-.menu-bg[title]:hover:after{
+.menu-bg span:hover:after{
     opacity: 0;
     transition: opacity 0.3s ease-in-out;
 }
 
-.menu-bg[title]:hover:after{
+.menu-bg span:hover:after{
     opacity: 1;
 }
 
