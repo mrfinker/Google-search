@@ -118,5 +118,5 @@ li a:hover{
 }
 
 .menu-bt{
-    width: px;
+    font-size: calc(15px + 50%);
 }
