@@ -114,5 +114,5 @@ li a:hover{
 
 .menu-bg:hover{
     background-color: rgb(223, 223, 223);
-
+    cursor: pointer;
 }
