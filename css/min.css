@@ -133,9 +133,13 @@ li a:hover{
     cursor: pointer;
 }
 
-.menu-bt{
-    font-size: calc(8px + 100%);
+.menu-button{
+    width: 15px;
 }
+
+/* .menu-bt{
+    font-size: calc(8px + 100%);
+} */
 
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
