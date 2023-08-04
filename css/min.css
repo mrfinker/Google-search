@@ -75,10 +75,10 @@ th {
     transition: ease-in-out 0.5s;
 }
 
-/* .pro-pic:hover{
+.profile-pic:hover{
     cursor: pointer;
     background-color: rgb(223, 223, 223);
-} */
+}
 
 .profile-pic {
     border-radius: 50%;
