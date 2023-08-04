@@ -48,6 +48,7 @@ html {
 *::after,
 *::before {
     box-sizing: inherit;
+    color: black;
 }
 img,
 video {
