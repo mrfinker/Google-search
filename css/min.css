@@ -137,7 +137,7 @@ li a:hover{
 .menu-bg span{
     display: none;
   position: absolute;
-  background: #333;
+  background: #6e6e6e;
   color: #fff;
   padding: 5px;
   border-radius: 5px;
@@ -147,16 +147,16 @@ li a:hover{
   transform: translateX(-50%);
 }
 
-.menu-bg span:hover {
+.menu-bg:hover span {
     display: block;
 }
 
-.menu-bg span:hover:after{
+.menu-bg span{
     opacity: 0;
     transition: opacity 0.3s ease-in-out;
 }
 
-.menu-bg span:hover:after{
+.menu-bg:hover span{
     opacity: 1;
 }
 
