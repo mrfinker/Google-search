@@ -148,6 +148,16 @@ li a:hover{
     align-items: center;
 }
 
+.logo{
+    height: 92px;
+    aspect-ratio: auto 272/92;
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: contain;
+    object-position: center bottom;
+    width: auto;
+}
+
 form{
     position: relative;
     margin-top: 30px;
