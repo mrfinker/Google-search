@@ -134,32 +134,6 @@ li a:hover{
     cursor: pointer;
 }
 
-.menu-bg span{
-    display: none;
-  position: absolute;
-  background: #6e6e6e;
-  color: #fff;
-  padding: 5px;
-  border-radius: 5px;
-  white-space: nowrap;
-  bottom: -30px;
-  left: 50%;
-  transform: translateX(-50%);
-}
-
-.menu-bg:hover span {
-    display: block;
-}
-
-.menu-bg span{
-    opacity: 1;
-    transition: opacity 0.3s ease-in-out;
-}
-
-.menu-bg:hover span{
-    opacity: 1;
-}
-
 .menu-button{
     width: 20px;
 }
