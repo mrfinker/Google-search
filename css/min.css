@@ -141,6 +141,38 @@ li a:hover{
     font-size: calc(8px + 100%);
 } */
 
+.search-wrapper{
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input{
+    width: 600px;
+    height: 46px;
+    padding-left: 50px;
+    font-size: 1.2rem;
+    border-radius: 45px;
+    border: 1px solid #d3d3d3;
+}
+
+input:hover{
+    box-shadow: 0 1px 3px 1px rgba(201, 201, 201, 0.5);
+}
+
+input:focus{
+    outline: none;
+}
+
+.search{
+    width: 15px;
+}
+
+.mic{
+    width: 15px;
+}
+
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 16px;
