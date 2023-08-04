@@ -85,8 +85,6 @@ th {
 .profile-pic {
     border-radius: 50%;
     object-fit: cover;
-    width: calc(40px + 100%);
-    height: calc(40px + 100%);
 }
 
 nav{
