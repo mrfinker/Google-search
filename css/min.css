@@ -256,7 +256,11 @@ footer{
 }
 
 .panel > *{
-    flex-basis: 33%;
+    flex-basis: 30%;
+}
+
+.carbon{
+    text-align: center;
 }
 
 p{
