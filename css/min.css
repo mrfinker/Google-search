@@ -114,8 +114,8 @@ li a:hover{
     text-decoration: underline;
 }
 
-.text_6{
-    font-size: 12px;
+html body div.container-fluid header nav ul li a{
+    font-size: 14px;
 }
 
 ul.languages li a{
