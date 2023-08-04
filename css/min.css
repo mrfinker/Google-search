@@ -88,3 +88,11 @@ li{
     text-align: center;
     padding: 14px 12px;
 }
+
+a{
+    text-decoration: none;
+}
+
+li a:hover{
+    text-decoration: underline;
+}
