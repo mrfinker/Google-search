@@ -109,6 +109,7 @@ li a:hover{
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
     transition: ease-out 0.3s;
 }
 
@@ -118,5 +119,5 @@ li a:hover{
 }
 
 .menu-bt{
-    font-size: calc(10px + 100%);
+    font-size: calc(8px + 100%);
 }
