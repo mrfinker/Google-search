@@ -230,11 +230,11 @@ body{
     justify-content: space-between;
 }
 
-.tooltip {
+.menu-button.tooltip {
     position: relative;
 }
   
-.tooltip:hover::after {
+.menu-button.tooltip:hover::after {
     content: "Applications Google";
     position: absolute;
     top: 100%;
