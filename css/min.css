@@ -229,6 +229,8 @@ button:hover{
     display: flex;
     justify-content: center;
     align-items: center;
+    line-height: 60px;
+    font-size: small;
 }
 
 body{
