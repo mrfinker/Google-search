@@ -170,14 +170,14 @@ input:focus{
 }
 
 .search{
-    width: 15px;
+    width: 18px;
     position: absolute;
-    top: 16px;
+    top: 15px;
     left: 15px;
 }
 
 .mic{
-    width: 18px;
+    width: 15px;
     position: absolute;
     top: 16px;
     left: 565px;
