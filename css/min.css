@@ -255,6 +255,11 @@ footer{
     padding: 15px;
 }
 
+.panel a, .panel p{
+    color: #70757a;
+    font-size: 14px;
+}
+
 .carbon{
     text-align: center;
 }
