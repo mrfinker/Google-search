@@ -141,11 +141,12 @@ li a:hover{
 .menu-bg[title]:hover:after {
     content: attr(title);
     position: absolute;
-    background: #000;
-    color: #fff;
+    background: #adadad;
+    color: white;
     padding: 5px;
     border-radius: 5px;
     white-space: nowrap;
+    bottom: -40px;
 }
 
 .menu-bg[title]:hover:after{
