@@ -118,6 +118,10 @@ li a:hover{
     font-size: 0.9rem;
 }
 
+ul.languages li a{
+    color: rgb(3, 3, 202);
+}
+
 .menu-bg{
     width: 40px;
     height: 40px;
