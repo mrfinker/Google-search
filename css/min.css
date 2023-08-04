@@ -147,7 +147,7 @@ li a:hover{
   transform: translateX(-50%);
 }
 
-.menu-bg span:hover:after {
+.menu-bg span:hover {
     display: block;
 }
 
