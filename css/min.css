@@ -70,3 +70,15 @@ th {
     border-radius: 50%;
     object-fit: cover;
 }
+
+header {
+    min-width: auto;
+  }
+  
+  nav {
+    font: 14px/27px;
+    z-index: 986;
+    display: inline-block;
+    flex-grow: 1;
+    font-size: 14px;
+  }
