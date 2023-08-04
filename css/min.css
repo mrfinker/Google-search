@@ -73,19 +73,18 @@ th {
     align-items: center;
     border-radius: 50%;
     transition: ease-in-out 0.5s;
-    width: 40px;
-    height: 40px;
 }
 
-.pro-pic:hover{
+/* .pro-pic:hover{
     cursor: pointer;
     background-color: rgb(223, 223, 223);
-}
+} */
 
 .profile-pic {
     border-radius: 50%;
     object-fit: cover;
-    width: 100%;
+    width: 40px;
+    height: 40px;
 }
 
 nav{
