@@ -225,6 +225,12 @@ button:hover{
     gap: 15px;
 }
 
+.disponible{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     overflow: hidden;
