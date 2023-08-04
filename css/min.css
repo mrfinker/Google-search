@@ -66,9 +66,18 @@ th {
     padding: 0;
 }
 
+.pro-pic{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
 .profile-pic {
     border-radius: 50%;
     object-fit: cover;
+    width: 30px;
+    height: 30px;
 }
 
 nav{
