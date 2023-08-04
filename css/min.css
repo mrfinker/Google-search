@@ -255,6 +255,10 @@ footer{
     padding: 15px;
 }
 
+.panel > *{
+    flex-basis: 33%;
+}
+
 p{
     padding-left: 13px;
 }
