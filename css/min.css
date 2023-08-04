@@ -148,6 +148,10 @@ li a:hover{
     align-items: center;
 }
 
+form{
+    position: relative;
+}
+
 input{
     width: 600px;
     height: 46px;
@@ -167,10 +171,16 @@ input:focus{
 
 .search{
     width: 15px;
+    position: absolute;
+    top: 16px;
+    left: 15px;
 }
 
 .mic{
     width: 15px;
+    position: absolute;
+    top: 16px;
+    left: 565px;
 }
 
 body{
