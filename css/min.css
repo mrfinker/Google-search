@@ -77,3 +77,14 @@ nav{
     padding: 20px 10px;
     height: 60px;
 }
+
+ul{
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+li{
+    text-align: center;
+    padding: 14px 12px;
+}
