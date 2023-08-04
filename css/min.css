@@ -148,7 +148,6 @@ li a:hover{
     border-radius: 5px;
     white-space: nowrap;
     bottom: -35px;
-    transition: ease-out 50s;
 }
 
 .menu-button{
